@@ -4,10 +4,11 @@ import FlightHeader from './FlightHeader';
 import {Actions} from 'react-native-router-flux';
 
 import {styles} from './_styles';
+import data from '../../data/flights';
 
 export default () => {
-  const goToOrlando = () => Actions.flight({data: {hello: 'world'}});
-  const goToCostaRica = () => Actions.flight({data: {bye: 'world'}});
+  const goToOrlando = () => Actions.flight(data.orlando);
+  const goToCostaRica = () => Actions.flight(data.costaRica);
   return (
     <View style={styles.body}>
       <FlightHeader />

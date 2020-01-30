@@ -1,0 +1,32 @@
+{
+  "orlando": {
+    "title": "San Jose (SJO) - Orlando (MCO)",
+    "flight_number": "NK924",
+    "initial_date": "2020-02-08",
+    "final_date": "2020-02-08",
+    "initial_time": "2:35 PM",
+    "final_time": "6:40 PM",
+    "initial_gate": "--",
+    "initial_terminal": "--",
+    "final_gate": "--",
+    "final_terminal": "--",
+    "flight_time": "3h5m",
+    "seats": "25 A y B",
+    "transportation_notes": "Lugar del pick-up: Nivel 2, del lado de la terminal A en el área de llegadas, Precio: $31.53"
+  },
+  "costaRica": {
+    "title": " Orlando (MCO) - San Jose (SJO)",
+    "flight_number": "NK923",
+    "initial_date": "2020-02-15",
+    "final_date": "2020-02-15",
+    "initial_time": "11:24 AM",
+    "final_time": "1:44 PM",
+    "initial_gate": "--",
+    "initial_terminal": "--",
+    "final_gate": "--",
+    "final_terminal": "--",
+    "flight_time": "3h20m",
+    "seats": "25 A y B",
+    "transportation_notes": "Lugar de llegada: MCO terminal B Spirit nivel 3, Precio: $25.34"
+  }
+}

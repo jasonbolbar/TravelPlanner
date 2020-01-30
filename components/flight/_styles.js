@@ -25,4 +25,36 @@ export const styles = {
     width: 350,
     marginBottom: 100,
   },
-}
+  flight_title: {
+    flex: 1,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  flight_schema: {
+    flex: 1,
+    flexDirection: 'row',
+  },
+  initial_schema: {
+    flex: 1,
+    alignItems: 'center',
+  },
+  flight_time: {
+    flex: 3,
+    alignItems: 'center',
+  },
+  final_schema: {
+    flex: 1,
+    alignItems: 'center',
+  },
+  flight_seats: {
+    flex: 1,
+    justifyContent: 'center',
+  },
+  flight_notes: {
+    flex: 5,
+  },
+  transportation_notes: {
+    marginTop: 10,
+    fontSize: 20,
+  },
+};
