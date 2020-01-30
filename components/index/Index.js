@@ -34,7 +34,7 @@ export default () => (
       </View>
       <View style={styles.row}>
         <View style={styles.column}>
-          <IndexButton text="Hotel" icon={faBed} />
+          <IndexButton text="Hotel" icon={faBed} scene="hotel" />
         </View>
         <View style={styles.column}>
           <IndexButton text="Comida" icon={faUtensils} />

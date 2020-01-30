@@ -1,0 +1,37 @@
+{
+  "body": {
+    "flex": 1
+  },
+  "scrollBody": {
+    "flex": 1,
+    "justifyContent": "space-between",
+    "alignItems": "center"
+  },
+  "bannerContainer": {
+    "flex": 1,
+    "alignItems": "center"
+  },
+  "banner": {
+    "width": 410,
+    "height": 100
+  },
+  "hotelLogoContainer":{
+    "flex": 1,
+    "alignItems": "center",
+    "justifyContent": "center"
+  },
+  "infoContainer": {
+    "flex": 6
+  },
+  "text": {
+    "fontSize": 20
+  },
+  "hotelInfoContainer": {
+    "flex": 4,
+    "justifyContent": "space-between",
+    "backgroundColor": "red"
+  },
+  "transportationContainer":{
+    "flex": 1
+  }
+}
