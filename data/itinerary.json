@@ -1,0 +1,543 @@
+{
+  "2020-02-08": [
+    {
+      "time": "10:00 am",
+      "description": "Salida de Palmares"
+    },
+    {
+      "time": "11:30 am",
+      "description": "Llegada al aeropuerto de CR. Entrega de equipaje"
+    },
+    {
+      "time": "12:00 pm",
+      "description": "Almuerzo"
+    },
+    {
+      "time": "2:35 pm",
+      "description": "Sale el avion"
+    },
+    {
+      "time": "6:40 pm",
+      "description": "Llegada al aeropuerto de Orlando. Recoger equipaje"
+    },
+    {
+      "time": "7:30 pm",
+      "description": "Salir del aeropuerto y solicitar el Uber"
+    },
+    {
+      "time": "8:10 pm",
+      "description": "Check-in en el hotel",
+      "notes": "Could you please provide more information about the shuttle to Lake Buena Vista Factory Stores?"
+    },
+    {
+      "time": "8:30 pm",
+      "description": "Pedir Uber Eats o ir al 7-eleven o Win-Dixie"
+    }
+  ],
+  "2020-02-09": [
+  	{
+      "time": "8:00 am",
+      "description": "Desayuno. Alistar los bultos para llevarlos"
+    },
+    {
+      "time": "9:20 am",
+      "description": "Coger el transporte al Factory Stores e ir a Walmart si se puede"
+    },
+    {
+      "time": "9:45 am",
+      "description": "Pedir Uber al Orlando Premium Vineland Outlets"
+    },
+    {
+      "time": "10:00 am",
+      "description": "Pedir Uber al Orlando Premium Vineland Outlets"
+    },
+    {
+      "time": "10:15 am",
+      "description": "Ir al Amazon Locker si los paquetes llegaron"
+    },
+    {
+      "time": "10:30 am",
+      "description": "Ir a las tiendas"
+    },
+    {
+      "time": "12:00 pm",
+      "description": "Almuerzo"
+    },
+    {
+      "time": "3:00 pm",
+      "description": "Ir al Publix"
+    },
+    {
+      "time": "4:30 pm",
+      "description": "Ir al hotel"
+    },
+    {
+      "time": "5:00 pm",
+      "description": "Ir al Walmart si es necesario"
+    }
+  ],
+  "2020-02-10": [
+  	{
+      "time": "5:00 am",
+      "description": "Desayuno"
+    },
+    {
+      "time": "7:00 am",
+      "description": "Transporte directo a Universal Studios"
+    },
+    {
+      "time": "7:30 am",
+      "description": "Hacer fila en Island of Adventure"
+    },
+    {
+      "time": "9:00 am",
+      "description": "Hagrid's Magical Creatures Motorbike Adventures"
+    },
+    {
+      "time": "10:00 am",
+      "description": "Hippogriff flight si se puede"
+    },
+    {
+      "time": "10:30 am",
+      "description": "Hulk Rollercoaster"
+    },
+    {
+      "time": "11:00 am",
+      "description": "King Kong"
+    },
+    {
+      "time": "12:00 pm",
+      "description": "Harry Potter and the forbidden journey"
+    },
+    {
+      "time": "1:00 pm",
+      "description": "Pumping fizz en Three Broomsticks"
+    },
+    {
+      "time": "1:15 pm",
+      "description": "Almuerzo",
+      "notes": "Studios: Leaky Cauldron. Islands of adventure: Three Broomsticks"
+    },
+    {
+      "time": "2:00 pm",
+      "description": "Ir a Universal Studios"
+    },
+    {
+      "time": "2:15 pm",
+      "description": "Recorrer Springfield"
+    },
+    {
+      "time": "3:00 pm",
+      "description": "Shrek 4D"
+    },
+    {
+      "time": "3:30 pm",
+      "description": "Transformers 3D"
+    },
+    {
+      "time": "4:00 pm",
+      "description": "Men in Black"
+    },
+    {
+      "time": "5:00 pm",
+      "description": "Harry Potter and the escape from Gringotts"
+    },
+    {
+      "time": "5:30 pm",
+      "description": "Compras"
+    },
+    {
+      "time": "7:15 pm",
+      "description": "Transporte directo línea 84"
+    },
+    {
+      "time": "8:00 pm",
+      "description": "Show Universal Orlando’s Cinematic Celebration"
+    },
+    {
+      "time": "8:15 pm",
+      "description": "Pedir un Uber"
+    }
+  ],
+  "2020-02-11": [
+  	{
+      "time": "5:45 am",
+      "description": "Desayuno"
+    },
+    {
+      "time": "7:45 am",
+      "description": "Transporte a Epcot"
+    },
+    {
+      "time": "8:00 am",
+      "description": "Transporte en bus a Animal Kingdom"
+    },
+    {
+      "time": "9:00 am",
+      "description": "Avatar Flight of Passage (5 min) o Dinosaurs (3min)"
+    },
+    {
+      "time": "11:05 am",
+      "description": "FastPass+ Na’vi River Journey (5 min)"
+    },
+    {
+      "time": "11:30 am",
+      "description": "Show Pandora Drummers"
+    },
+    {
+      "time": "11:45 am",
+      "description": "Almuerzo en Discovery Island",
+      "notes": "Pizzafari ordenar en linea. Flame tree barbecue ordenar en linea"
+    },
+    {
+      "time": "12:50 pm",
+      "description": "FastPass+ Kilimanjaro Safaris (22 min) en Africa"
+    },
+    {
+      "time": "1:25 pm",
+      "description": "FastPass+ Expedition Everest (3 min) en Asia"
+    },
+    {
+      "time": "2:00 pm",
+      "description": "Reservar FastPass+ para Avatar Flight of Passage o Rivers of light"
+    },
+    {
+      "time": "2:15 pm",
+      "description": "Avatar Flight of Passage (5 min) o Dinosaurs (3 min)"
+    },
+    {
+      "time": "3:30 pm",
+      "description": "Maharajah Jungle Trek (25 min) caminata en Asia"
+    },
+    {
+      "time": "4:00 pm",
+      "description": "Show Bollywood Beats en Asia"
+    },
+    {
+      "time": "4:15 pm",
+      "description": "Wildlife Express Train en Africa si da tiempo"
+    },
+    {
+      "time": "5:00 pm",
+      "description": "Snack en Tamu Tamu Refreshments y compras antes del show de 7 pm"
+    },
+    {
+      "time": "5:05 pm",
+      "description": "Avatar Flight of Passage (5 min) si tenemos el show a las 8:15pm"
+    },
+    {
+      "time": "6:20 pm",
+      "description": "FastPass+ Show Rivers of light en Asia"
+    },
+    {
+      "time": "6:00 pm",
+      "description": "Show Harambe Village Acrobats en Africa"
+    },
+    {
+      "time": "6:20 pm",
+      "description": "FastPass+ Show Rivers of light en Asia"
+    },
+    {
+      "time": "7:00 pm",
+      "description": "Show Rivers of light"
+    },
+    {
+      "time": "7:05 pm",
+      "description": "Snack en Tamu Tamu Refreshments y compras antes del show de 8:15 pm"
+    },
+    {
+      "time": "7:30 pm",
+      "description": "Ver el Árbol de la Vida"
+    },
+    {
+      "time": "7:45 pm",
+      "description": "FastPass+ Show Rivers of light"
+    },
+    {
+      "time": "8:15 pm",
+      "description": "Show Rivers of light"
+    },
+    {
+      "time": "8:30 pm",
+      "description": "Transporte en bus a Epcot y al hotel"
+    }
+  ],
+  "2020-02-12": [
+  	{
+      "time": "5:45 am",
+      "description": "Desayuno"
+    },
+    {
+      "time": "7:45 am",
+      "description": "Transporte a Epcot"
+    },
+    {
+      "time": "8:00 am",
+      "description": "Revisar como se coge el skyliner"
+    },
+    {
+      "time": "9:00 am",
+      "description": "Frozen ever after"
+    },
+    {
+      "time": "10:00 am",
+      "description": "Recorrer Future World"
+    },
+    {
+      "time": "10:50 am",
+      "description": "FastPass+ Soarin"
+    },
+    {
+      "time": "11:00 am",
+      "description": "Reservar FastPass+ del Show Epcot Forever"
+    },
+    {
+      "time": "11:30 am",
+      "description": "Canada"
+    },
+    {
+      "time": "12:00 pm",
+      "description": "Reino Unido"
+    },
+    {
+      "time": "12:30 pm",
+      "description": "Francia. Impressions de France (video de 18 min)"
+    },
+    {
+      "time": "12:45 pm",
+      "description": "Show Serveur Amusant"
+    },
+    {
+      "time": "1:15 pm",
+      "description": "Almuerzo",
+      "notes": "Francia: Les Halles Boulangeries-Patisserie. Future World: Sunshine Seasons"
+    },
+    {
+      "time": "2:00 pm",
+      "description": "Marruecos. Galería de arte e historia"
+    },
+    {
+      "time": "2:30 pm",
+      "description": "Japon. Bijutsu-kan Gallery"
+    },
+    {
+      "time": "2:40 pm",
+      "description": "Show Matsuriza"
+    },
+    {
+      "time": "3:00 pm",
+      "description": "USA. American Heritage Gallery",
+      "notes": "No ir a The American Adventure"
+    },
+    {
+      "time": "3:30 pm",
+      "description": "Italia"
+    },
+    {
+      "time": "4:00 pm",
+      "description": "Alemania. Comprar caramelos en Karamell-Kuche"
+    },
+    {
+      "time": "4:30 pm",
+      "description": "China. House of the Whispering Willows. Reflections of China (Video de 15 min)"
+    },
+    {
+      "time": "5:10 pm",
+      "description": "Show Jeweled Dragon Acrobats"
+    },
+    {
+      "time": "5:30 pm",
+      "description": "Noruega. Stave church gallery"
+    },
+    {
+      "time": "6:00 pm",
+      "description": "México"
+    },
+    {
+      "time": "7:00 pm",
+      "description": "Snack",
+      "notes": "Future World: Sunshine Seasons. Canada: Refreshment Port"
+    },
+    {
+      "time": "8:00 pm",
+      "description": "FastPass+ Show Epcot Forever en Future World"
+    },
+    {
+      "time": "9:00 pm",
+      "description": "Show Epcot Forever"
+    },
+    {
+      "time": "9:45 pm",
+      "description": "Transporte directo Línea 48"
+    }
+  ],
+  "2020-02-13": [
+  	{
+      "time": "5:00 am",
+      "description": "Desayuno"
+    },
+    {
+      "time": "7:00 am",
+      "description": "Transporte a Universal Studios"
+    },
+    {
+      "time": "8:30 am",
+      "description": "Transporte hacia Busch Gardens"
+    },
+    {
+      "time": "10:00 am",
+      "description": "Cobra’s Curse en Egipto"
+    },
+    {
+      "time": "10:30 am",
+      "description": "Scorpion en Pantopia"
+    },
+    {
+      "time": "11:00 am",
+      "description": "Sand Serpent en Pantopia"
+    },
+    {
+      "time": "11:30 am",
+      "description": "Kumba en Congo"
+    },
+    {
+      "time": "12:00 pm",
+      "description": "Almuerzo",
+      "notes": "Stanleyville: Zambia Smokehouse. Pantopia: Dragon fire grill"
+    },
+    {
+      "time": "1:00 pm",
+      "description": "Serengeti Express Train en Stanleyville o Edge of Africa"
+    },
+    {
+      "time": "2:00 pm",
+      "description": "Atraccion acuatica Stanley falls flume en Stanleyville"
+    },
+    {
+      "time": "2:30 pm",
+      "description": "Recorrido para ver los animales desde Sesame Street hasta Jungala"
+    },
+    {
+      "time": "4:00 pm",
+      "description": "Skyride en Jungala"
+    },
+    {
+      "time": "4:30 pm",
+      "description": "Recorrer las tiendas"
+    },
+    {
+      "time": "5:30 pm",
+      "description": "Snack",
+      "notes": "Marruecos: Sultan’s Sweets, Stanleyville: Sheikra Sweet Treats"
+    },
+    {
+      "time": "7:00 pm",
+      "description": "Transporte"
+    },
+    {
+      "time": "8:30 pm",
+      "description": "Pedir un Uber al hotel"
+    }
+  ],
+  "2020-02-14": [
+  	{
+      "time": "5:45 am",
+      "description": "Desayuno"
+    },
+    {
+      "time": "7:45 am",
+      "description": "Transporte a Epcot"
+    },
+    {
+      "time": "8:00 am",
+      "description": "Transporte en bus o skyliner a Hollywood Studios"
+    },
+    {
+      "time": "9:00 am",
+      "description": "Slinky Dog Dash"
+    },
+    {
+      "time": "10:00 am",
+      "description": "Si la fila es de 1 hora Millennium Falcon (5 min) o The Twilight zone tower of terror (4 min)"
+    },
+    {
+      "time": "11:10 am",
+      "description": "FastPass+ Rock ‘n’ Roller Coaster Aerosmith (1 min) en Sunset Boulevard"
+    },
+    {
+      "time": "11:30 am",
+      "description": "Almuerzo",
+      "notes": "Toy Story Land: Woody's Lunch Box pedir en línea. Sunset Boulevard: Fairfax Fare pedir en línea"
+    },
+    {
+      "time": "1:00 pm",
+      "description": "Walt Disney Presents en Animation Courtyard"
+    },
+    {
+      "time": "1:30 pm",
+      "description": "Show Star Wars: a galaxy far, far away"
+    },
+    {
+      "time": "2:00 pm",
+      "description": "FastPass+ Star tours - the adventures continue (5 min)"
+    },
+    {
+      "time": "2:30 pm",
+      "description": "Millennium Falcon o The Twilight zone tower of terror (4 min)"
+    },
+    {
+      "time": "3:30 pm",
+      "description": "Toy Story Mania"
+    },
+    {
+      "time": "4:45 pm",
+      "description": "Show Indiana Jones Epic Stunt Spectacular (25 min)"
+    },
+    {
+      "time": "6:00 pm",
+      "description": "Postre en Neighborhood Bakery"
+    },
+    {
+      "time": "7:00 pm",
+      "description": "FastPass+ Fantasmic"
+    },
+    {
+      "time": "8:00 pm",
+      "description": "Fantasmic"
+    }
+  ],
+  "2020-02-15": [
+  	{
+      "time": "5:30 am",
+      "description": " Desayuno. Confirmar la puerta"
+    },
+    {
+      "time": "7:00 am",
+      "description": "Check out del hotel"
+    },
+    {
+      "time": "7:30 am",
+      "description": "Pedir el Uber"
+    },
+    {
+      "time": "8:20 am",
+      "description": "Llegada al aeropuerto. Ir al mostrador de spirit en el nivel 3"
+    },
+    {
+      "time": "8:40 am",
+      "description": "Dirigirse al lado oeste (izquierda) para ir al puesto de seguridad de las puertas 1 - 59"
+    },
+    {
+      "time": "9:00 am",
+      "description": "Ir en monoriel a las puertas 30 - 59"
+    },
+    {
+      "time": "11:24 am",
+      "description": "Sale el avión"
+    },
+    {
+      "time": "1:44 pm",
+      "description": "Llegada al aeropuerto de CR"
+    }
+  ]
+}
